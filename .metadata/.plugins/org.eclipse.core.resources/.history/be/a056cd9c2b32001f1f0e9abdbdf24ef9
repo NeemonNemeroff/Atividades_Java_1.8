@@ -1,0 +1,6 @@
+package modelo.copy;
+public interface Tributavel {
+
+	double getValorImposto();
+	
+}

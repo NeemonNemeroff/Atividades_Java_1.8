@@ -1,0 +1,15 @@
+package br.com.bytebank.banco.test;
+
+public class Teste {
+//Array []
+	public static void main(String[] args) {
+
+		int[] idades = new int [5];//inicializa com 0
+		
+		for(int = 0; 1 < idades.length; i++) {
+			
+		}
+
+	}
+
+}
